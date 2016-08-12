@@ -1,0 +1,21 @@
+#segmentedpic {
+  width: 80%;
+/*
+  width: 350px;
+  height: 350px;
+  margin-left: 9em;
+  margin-right: auto; */
+}
+
+#main_content {
+  padding: 20px;
+}
+
+.sect {
+  margin-left: 20px;
+}
+
+.well {
+  margin-left: 10px;
+  margin-right: 10px;
+}

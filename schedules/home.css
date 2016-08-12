@@ -1,0 +1,144 @@
+
+
+body{
+/*	background-color: #992A31; */
+	background-color: #4C0106;  /* darker red */
+}
+
+body p{
+/*	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; */     /* Trying out Verdana look */
+	font-family: Verdana;
+	color: black;
+}
+
+body h1, h2, h3 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: black ;
+}
+
+section{
+/*	background-color: #C6BCC8; */
+	background-color: #7F7B82;
+
+}
+
+#welcome, #term {
+	padding: 15px;
+}
+
+header{
+	background-color:#D0CBD1;
+
+}
+td{
+	width:20%;
+}
+
+a{
+	color:#444554;
+	font-size: 120%;	
+
+}
+
+#navigation,#sign_in{
+	background-color:#483C46;
+}
+
+#main{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#news_head {
+	margin-bottom: 20px;
+}
+
+
+#news {
+        float: right; 
+/*	bottom: 200px; */
+	position: relative;
+	width: 50%;
+	height: 600px;
+	top: 20px;
+}
+
+#about {
+	float: left;
+	width: 50%;
+	padding: 15px;
+}
+
+#about_news {
+	border-bottom: 1px solid white;
+}
+
+#term {
+	border-top: 1px solid white;
+}
+#termin{
+	height:0px;
+	overflow: hidden;
+	transition: all .5s linear;
+
+}
+#stages{
+	height:0px;
+	overflow: hidden;
+	transition: all .5s linear;
+
+}
+
+#well {
+	width: 50%;
+}
+
+#sched_down {
+	/* color: red; */
+	z-index: 10;
+}
+
+#schedule_button2 {
+	
+	z-index: -1;
+}
+
+#schedule_menu {
+	
+	z-index: 10;
+}
+
+
+#nav2 {      /* This one actually changes nav color */
+/*	background-color: gray; */
+/*	color: green; */
+}
+#search{
+	width:30%;
+}
+#demo{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	border: 1px solid white;
+	text-align: center;
+	color: white;
+	background-color: #483C46;
+}
+
+#chatbox {
+	width: 25%;
+	position: fixed;
+	bottom: -29px;
+	right: 113px;
+	height: 70px;
+}
+
+#login_text {
+	color: white;
+	font-family: Verdana;
+	position: fixed;
+	right: 290px;
+	bottom: -5px;
+	z-index: 10;
+}

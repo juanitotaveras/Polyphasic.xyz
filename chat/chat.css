@@ -1,0 +1,113 @@
+@media screen and (max-width: 768px) {
+	#toprow {
+		padding-left: 5%;
+	}
+	#textarea {
+		height: 60px !important;
+	//	background-color: ""; // light yellow
+		width: 30%;
+		position: absolute !important;
+		left: 5px !important;
+	}	
+	#submit_button {
+		position: absolute;
+		right: 0 !important;
+		top: 7px !important;
+		
+	}
+}
+#body_container {
+  position: relative;
+  bottom: 1.3em;
+}
+#displaybox {
+  height: 100%;
+  background-color: #D0CBD1;
+}
+
+#comment_area {
+  
+  height: 5%;
+  z-index: 100;
+  
+
+}
+
+#inner_box {
+  background-color: grey;
+  height: 500px;
+  padding-left: 10%;
+/*  margin: 10px; 
+  margin-top: 10px;*/
+  padding: 10px;
+/*  position: relative;
+  top: 5px; */
+  color: white;
+  font-family: Verdana;
+  overflow-y: scroll;
+}
+
+#toprow {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 1%;
+}
+
+#comment_table {
+  padding: 10px;
+  width: 100%;
+   
+}
+
+#textarea {
+  margin-top: 10px;
+  position: relative;
+  
+  left: 20px;
+  width: 90%;
+  height: 200%;
+/*  overflow-y: scroll; */
+}
+
+#submit_button {
+  position: relative;
+  bottom: 15px;
+  left: 25px;
+
+}
+
+.timecell {
+  color: green;
+  width: 10px;
+  padding: 0px;
+  margin-right: -5px;
+  padding-right: -5px;
+}
+.namecell {
+ // position: relative;
+  //right: 8.5%;
+  color: blue;
+}
+.timediv {
+  width: 65px;
+}
+.namediv {
+  width: 110px;
+}
+.commentdiv {
+
+}
+.commentcell {
+ // position: relative;
+  //right: 10%;
+  width:100%;
+  border: black;  
+} 
+
+/* currently active users panel */
+#upanel {  
+  /*float: right;  */
+  background-color: white;
+  height: 500%;
+ /* width: 20%; */
+}

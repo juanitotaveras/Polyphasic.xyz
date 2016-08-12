@@ -1,0 +1,21 @@
+&lt;!--&lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+  &lt;title&gt; Polyphasic.xyz &lt;/title&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css&quot;&gt;
+  &lt;!-- Optional theme --&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css&quot;&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;http://www.polyphasic.xyz/home.css&quot;&gt;
+
+
+  &lt;!-- JQuery --&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=../jquery-2.1.4.min.js\&gt;&lt;/script&gt; &lt;!-- locally sourced --&gt;
+  &lt;!-- Latest compiled and minified JavaScript --&gt;
+  &lt;script src=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;../home.js&quot;&gt;&lt;/script&gt;
+  &lt;!-- modal patch --&gt;
+ &lt;!-- &lt;script src=&quot;../bootstrap-modal-bs3patch.css&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;../bootstrap-modal.css&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;../bootstrap-modalmanager.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;../bootstrap-modal.js&quot;&gt;&lt;/script&gt; 
+  &lt;script src=&quot;../jstz.min.js&quot;&gt;&lt;/script&gt;--&gt;
