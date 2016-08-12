@@ -250,6 +250,7 @@
 <h3 id = "login_text"> Log in to chat </h3>
 <img src="./Chat/chatbox.png" alt="chatbox" id="chatbox">
 
+<!-- arbitrary text -->
   <div class="footer" id="demo">
     created 10/9/2015
     &copy; Polyphasic.xyz - Kayne Khoury, Juanito Taveras
